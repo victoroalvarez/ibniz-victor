@@ -1,4 +1,4 @@
-# ibniz-voa
+# ibniz-victor
 Glitch art video animations produced with IBNIZ. Code snippets are meant to run with IBNIZ.
 
 ## WARNING: This VIDEOS may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.
